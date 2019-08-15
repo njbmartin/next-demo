@@ -1,0 +1,12 @@
+[
+    {
+      "title": "Foo",
+      "slug": "foo",
+      "url": "https://foo.com/"
+    },
+    {
+        "title": "Bar",
+        "slug": "bar",
+        "url": "https://bar.com/"
+      }
+]
